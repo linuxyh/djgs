@@ -1,4 +1,4 @@
 django
 django-allauth
 beautifulsoup4
-pillow
+
